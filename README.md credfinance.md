@@ -11,7 +11,7 @@ The focus of the dashboard is not just reporting numbers, but telling a performa
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](CredMoney Dashboard file.png)
 
 
 
