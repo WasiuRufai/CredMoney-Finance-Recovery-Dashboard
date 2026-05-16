@@ -9,6 +9,10 @@ The dashboard was designed to track and visualize the performance of field recov
 
 The focus of the dashboard is not just reporting numbers, but telling a performance story through clean visuals, KPIs, and insights.
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.png)
+
 
 
 ## Dashboard Objectives
